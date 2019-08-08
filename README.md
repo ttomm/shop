@@ -1,2 +1,3 @@
-# shop
-Angular shop project
+#Angular shop project
+
+To install app run `npm install`
