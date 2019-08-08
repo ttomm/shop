@@ -1,0 +1,2 @@
+# shop
+Angular shop project
