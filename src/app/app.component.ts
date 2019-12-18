@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'shop';
+  currentComponent: string;
+
+  onComponentChosen(component: string) {
+    this.currentComponent = component;
+  }
 }
